@@ -73,3 +73,19 @@
   </div>
    </div>
   <br>
+<h2 align="center" style="display: inline-block"> <!-- <img src="./images/gifs/borderseperator.gif"> -->
+<details open>
+<summary>📈&ensp; <i>Ａｔｉｖｉｄａｄｅ</i> &ensp;📈</summary>
+<br>
+ <p align="center">
+ <img src="https://streak-stats.demolab.com?user=FehMaciel&theme=dark&hide_border=true&border_radius=4.8&background=000000&stroke=0079fa&ring=270786&fire=0EAFDD&currStreakNum=2FD8E7&sideNums=2FD8E7&currStreakLabel=0079fa&sideLabels=2FD8E7&dates=0079fa" />
+  </p>
+ <img width="49%" height="195px" src="https://github-readme-stats-i66v.vercel.app/api?username=FehMaciel&show_icons=true&title_color=0079fa&text_color=2FD8E7&iconcolor=2FD8E7&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" /> 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FehMaciel&layout=compact&hide_border=true&title_color=2049DD&text_color=2FD8E7&bg_color=000000" />
+ <img src="https://github-profile-trophy.vercel.app/?username=FehMaciel&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  />
+
+<div align="center">
+ <img align="center" width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=FehMaciel&custom_title=FehMaciel's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=D626E7&area=true&hide_border=true">
+ <br>
+</div>
+</details>
