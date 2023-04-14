@@ -48,7 +48,6 @@
 <div>
  <h2></h2>
 <div>
- <h2></h2>
 <h2 align="center">🙋‍&ensp; <i>Ｃｏｎｔａｔｏ</i> &ensp;🙋‍</h2>
 <a>&nbsp;</a>
 <img align="left" width="310px" height="235px" src="./images/gifs/who-are-you.gif" alt="anime coding" />
@@ -72,7 +71,7 @@
     </p>
   </div>
    </div>
-  <br>
+ <h2></h2>
 <h2 align="center" style="display: inline-block"> <!-- <img src="./images/gifs/borderseperator.gif"> -->
 <details open>
 <summary>📈&ensp; <i>Ａｔｉｖｉｄａｄｅ</i> &ensp;📈</summary>
