@@ -71,7 +71,7 @@
  <h2></h2>
 <h2 align="center" style="display: inline-block"> <!-- <img src="./images/gifs/borderseperator.gif"> -->
 <details open>
-<summary>📈&ensp; <i>Ａｔｉｖｉｄａｄｅ</i> &ensp;📈</summary>
+<summary><i>Ａｔｉｖｉｄａｄｅ</i></summary>
 <br>
  <p align="center">
  <img src="https://streak-stats.demolab.com?user=FehMaciel&theme=dark&hide_border=true&border_radius=4.8&background=000000&stroke=0079fa&ring=270786&fire=0EAFDD&currStreakNum=2FD8E7&sideNums=2FD8E7&currStreakLabel=0079fa&sideLabels=2FD8E7&dates=0079fa" />
