@@ -74,7 +74,7 @@
 <summary><i>Ａｃｔｉｖｉｔｙ</i></summary>
 <br>
  <p align="center">
- <img src="https://streak-stats.demolab.com?user=FehMaciel&theme=dark&hide_border=true&border_radius=8.6&fire=AD0CDA&stroke=6500C99D&ring=6E00DAEA&currStreakNum=AD0CDA&sideLabels=FFFFFF&currStreakLabel=FFFFFF&sideNums=AD0CDA" />
+ <img src="https://streak-stats.demolab.com?user=FehMaciel&background=000000&border=FFFFFF&hide_border=true&border_radius=8.6&fire=AD0CDA&stroke=6500C99D&ring=6E00DAEA&currStreakNum=AD0CDA&sideLabels=FFFFFF&currStreakLabel=FFFFFF&sideNums=AD0CDA" />
   </p>
  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FehMaciel&show_icons=true&theme=midnight-purple" /> 
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FehMaciel&layout=compact&hide_border=false&theme=midnight-purple" />
