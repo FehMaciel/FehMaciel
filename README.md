@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=6e00ff&size=20&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Felippe+dos+Santos+Maciel;I'm+19+Years+Old;I'm+From+Santo+André,+SP+-+Brazil;I+Work+in+Web+Development;I'm+Technologist+in+systems+analysis+and+development;Welcome+And+Enjoy!+:%29)](https://git.io/typing-svg)
 <div>
 <h2 align="center"><i>A B O U T &nbsp; M E</i></h2>
+  <!--<p><img align="right" width="300" alt="Coding" src="https://64.media.tumblr.com/cea9f2b42d5fdc63ae6c84426134ff51/tumblr_ni8e2pCNjd1rsdpaso1_500.gifv"/><p/>
+-->
   
 - I'm web developer and technologist in systems analysis and development.
 
@@ -16,10 +18,12 @@
 
 - How to reach me **felippemaciel13@gmail.com**.
 <h3 align=right><i>Technology moves the world</i></h3>
-
+</div>
+ 
 <hr>
   
-  
+ <p><img align="center" width="100%" alt="Coding" src="https://i.imgur.com/lLfM33a.gif"/><p/>
+
 <h2 align="center">&ensp; <i>Ｔｅｃｈｎｏｌｏｇｙ</i> &ensp;</h2>
 <div>
 
