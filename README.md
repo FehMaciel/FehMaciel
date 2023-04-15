@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Felippe+dos+Santos+Maciel;I'm+19+Years+Old;I'm+From+Santo+André,+SP+-+Brazil;I+Work+in+Web+Development;I'm+Technologist+in+systems+analysis+and+development;Welcome+And+Enjoy!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=6e00ff&size=20&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Felippe+dos+Santos+Maciel;I'm+19+Years+Old;I'm+From+Santo+André,+SP+-+Brazil;I+Work+in+Web+Development;I'm+Technologist+in+systems+analysis+and+development;Welcome+And+Enjoy!+:%29)](https://git.io/typing-svg)
 <div>
 <h2 align="center">📚&ensp; <i>A B O U T &nbsp; M E</i> &ensp;📚</h2>
 
