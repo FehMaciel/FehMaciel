@@ -76,8 +76,8 @@
  <p align="center">
  <img src="https://streak-stats.demolab.com?user=FehMaciel&background=000000&hide_border=true&border_radius=8.6&fire=AD0CDA&stroke=6500C99D&ring=6E00DAEA&currStreakNum=AD0CDA&sideLabels=FFFFFF&currStreakLabel=FFFFFF&sideNums=AD0CDA&border=FFFFFF" />
   </p>
-<img height="195px" src="https://github-readme-stats.vercel.app/api?username=FehMaciel&show_icons=true&theme=midnight-purple" /> 
-<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FehMaciel&layout=compact&hide_border=false&theme=midnight-purple" />
+<img width="40% !important" height="195px !important" src="https://github-readme-stats.vercel.app/api?username=FehMaciel&show_icons=true&theme=midnight-purple" /> 
+<img width="40% !important" height="195px !important" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FehMaciel&layout=compact&hide_border=false&theme=midnight-purple" />
 <br><br>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=FehMaciel&theme=dracula&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  />
 <br><br>
