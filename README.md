@@ -5,21 +5,21 @@
 <!--<a href="https://app.daily.dev/Leoszm"><img align="right" src="https://api.daily.dev/devcards/e90a0c681151496590a67f7c8a244de1.png?r=jvk" width="360" alt="Leonardo Souza Martins's Dev Card"/></a>-->
 <br>
 
-- 🤵 I'm web developer and technologist in systems analysis and development.
+- I'm web developer and technologist in systems analysis and development.
 
-- 🔭 I’m currently working at [City Hall of Santo André, SP, BRAZIL](https://web.santoandre.sp.gov.br).
+- I’m currently working at [City Hall of Santo André, SP, BRAZIL](https://web.santoandre.sp.gov.br).
 
-- 🤖 I like to learn new things and ideas, technologies and meet new people!
+- I like to learn new things and ideas, technologies and meet new people!
 
-- 🌱 I’m currently learning **PHP, MySql, Python & Javascript**.
+- I’m currently learning **PHP, MySql, C, Python & Javascript**.
 
-- 👨‍💻 All of my projects are available at [FehMaciel](https://github.com/FehMaciel?tab=repositories).
+- All of my projects are available at [FehMaciel](https://github.com/FehMaciel?tab=repositories).
 
-- 💬 Ask me about **Web development, PHP, Javascript, Html5,<br> Css3 & JS**.
+- Ask me about **Web development, PHP, Bootstrap, Javascript, Html5, Css3 & JS**.
 
-- 📫 How to reach me **felippemaciel13@gmail.com**.
+- How to reach me **felippemaciel13@gmail.com**.
 <br>
-<!--<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;<i>An ordinary traveler with an insatiable curiosity...</i>&ensp;</h3>-->
+<h3 align=right><i>Technology moves the world</i></h3>
 
 </div>
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ</i> &ensp;🛠️</h2>
