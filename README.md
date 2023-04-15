@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=6e00ff&size=20&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Felippe+dos+Santos+Maciel;I'm+19+Years+Old;I'm+From+Santo+André,+SP+-+Brazil;I+Work+in+Web+Development;I'm+Technologist+in+systems+analysis+and+development;Welcome+And+Enjoy!+:%29)](https://git.io/typing-svg)
 <div>
-<h2 align="center">📚&ensp; <i>A B O U T &nbsp; M E</i> &ensp;📚</h2>
+<h2 align="center"><i>A B O U T &nbsp; M E</i></h2>
 
 <!--<a href="https://app.daily.dev/Leoszm"><img align="right" src="https://api.daily.dev/devcards/e90a0c681151496590a67f7c8a244de1.png?r=jvk" width="360" alt="Leonardo Souza Martins's Dev Card"/></a>-->
 <br>
@@ -20,14 +20,14 @@
 - How to reach me **felippemaciel13@gmail.com**.
 <br>
 <h3 align=right><i>Technology moves the world</i></h3>
-
 </div>
-<h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ</i> &ensp;🛠️</h2>
+<hr>
+<h2 align="center">&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ</i> &ensp;</h2>
 <div>
   <table>
     <th>
       <p align="center">
-        <p align="center">💻&ensp; <i>L a n g u a g e s</i> &ensp;💻</p>
+        <p align="center"><i>L a n g u a g e s</i></p>
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> 
         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -39,7 +39,19 @@
     </th>
     <th>
       <p align="center">
-      <p align="center">⚙️&ensp; <i>T o o l s</i> &ensp;⚙️</p>
+        <p align="center"><i>Ｆｒａｍｅｗｏｒｋｓ</i></p>
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> 
+        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+        <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+      </p>
+    </th>
+    <th>
+      <p align="center">
+      <p align="center"><i>T o o l s</i></p>
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
         <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" /></p>    
