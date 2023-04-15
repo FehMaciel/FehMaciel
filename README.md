@@ -64,7 +64,7 @@
     <a href="https://br.linkedin.com/in/felippe-dos-santos-maciel-b463381b0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://discordapp.com/users/694401987713695784" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
     <a href="https://stackoverflow.com/users/21646994/felippe-maciel"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white">
-       </p><br><br>
+       </p>
     </p>
   </div>
    </div>
