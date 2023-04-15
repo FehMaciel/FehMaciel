@@ -76,10 +76,11 @@
  <p align="center">
  <img src="https://streak-stats.demolab.com?user=FehMaciel&background=000000&hide_border=true&border_radius=8.6&fire=AD0CDA&stroke=6500C99D&ring=6E00DAEA&currStreakNum=AD0CDA&sideLabels=FFFFFF&currStreakLabel=FFFFFF&sideNums=AD0CDA&border=FFFFFF" />
   </p>
- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FehMaciel&show_icons=true&theme=midnight-purple" /> 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FehMaciel&layout=compact&hide_border=false&theme=midnight-purple" />
- <img align="center" src="https://github-profile-trophy.vercel.app/?username=FehMaciel&theme=dracula&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  />
-
+<img height="195px" src="https://github-readme-stats.vercel.app/api?username=FehMaciel&show_icons=true&theme=midnight-purple" /> 
+<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FehMaciel&layout=compact&hide_border=false&theme=midnight-purple" />
+<br><br>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=FehMaciel&theme=dracula&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  />
+<br><br>
 <div align="center">
  <img align="center" width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=FehMaciel&custom_title=FehMaciel's%20GitHub%20Activity%20Graph&theme=modern-lilac&line=2100fa&point=D626E7&area=true&hide_border=true">
  <br>
