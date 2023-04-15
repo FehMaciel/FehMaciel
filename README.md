@@ -1,9 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=6e00ff&size=20&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Felippe+dos+Santos+Maciel;I'm+19+Years+Old;I'm+From+Santo+André,+SP+-+Brazil;I+Work+in+Web+Development;I'm+Technologist+in+systems+analysis+and+development;Welcome+And+Enjoy!+:%29)](https://git.io/typing-svg)
 <div>
-<h2 align="center"><i>A B O U T &nbsp; M E</i></h2>
-  <!--<p><img align="right" width="300" alt="Coding" src="https://64.media.tumblr.com/cea9f2b42d5fdc63ae6c84426134ff51/tumblr_ni8e2pCNjd1rsdpaso1_500.gifv"/><p/>
--->
-  
+    <h2 align="center">About Me</h2>
+  <a href="https://app.daily.dev/FehMaciel"><img align="right" src="https://api.daily.dev/devcards/39dc7a0cc5464a23956dc497b2dca7bc.png?r=fel" width="300" alt="Felippe Maciel's Dev Card"/></a>
+
+  <br>
+  <br>
 - I'm web developer and technologist in systems analysis and development.
 
 - I’m currently working at [City Hall of Santo André, SP, BRAZIL](https://web.santoandre.sp.gov.br).
@@ -17,39 +18,41 @@
 - Ask me about **Web development, PHP, Bootstrap, Javascript, Html5, Css3 & JS**.
 
 - How to reach me **felippemaciel13@gmail.com**.
-<h3 align=right><i>Technology moves the world</i></h3>
-</div>
- 
-<hr>
+  <br>
   
+<h3 align="right"><i>Technology moves the world</i></h3>
+</div>
+  <hr>
+  <br>
+  <br>
  <p><img align="center" width="100%" alt="Coding" src="https://i.imgur.com/lLfM33a.gif"/><p/>
-
-<h2 align="center">&ensp; <i>Ｔｅｃｈｎｏｌｏｇｙ</i> &ensp;</h2>
+<hr>
+<h2 align="center">Technology</h2>
 <div>
 
-  <p align="left"><i>F r o n t e n d </i></p>
+  <p align="left">Frontend</p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />     
   <h2></h2>
-<p align="left"><i>L a n g u a g e s</i></p>
+<p align="left">Languages</p>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <h2></h2>
-<p align="left"><i>F r a m e w o r k s</i></p>
+<p align="left">Frameworks</p>
 <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <h2></h2>
-<p align="left"><i>T o o l s</i></p>
+<p align="left">Tools</p>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />  
   <hr>
 <div>
-<h2 align="center"><i>C o n t a c t</i></h2>
+<h2 align="center">Contact</h2>
 <div>
 <p align="center">
 <br>
@@ -62,7 +65,7 @@
 </div>
 </div>
 <hr>
-<h2 align="center"><i>Ａｃｔｉｖｉｔｙ</i></h2>
+<h2 align="center">Activity</h2>
 <table>
     <tr>
         <th>
