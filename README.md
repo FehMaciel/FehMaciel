@@ -88,5 +88,5 @@
 </p>
 </details>
 
-![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/FehMaciel/FehMaciel/blob/output/github-contribution-grid-snake.svg)
 
