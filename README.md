@@ -86,7 +86,7 @@
 <p align="center">
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=FehMaciel&theme=dracula&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  />
 </p>
-  
-
 </details>
+
+![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
 
