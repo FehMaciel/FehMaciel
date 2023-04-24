@@ -11,7 +11,7 @@
 
 - I like to learn new things and ideas, technologies and meet new people!
 
-- I’m currently learning **PHP, MySql, C, Python & Javascript**.
+- I’m currently learning **PHP, MySql, C, Javascript, Typescript & Python**.
 
 - All of my projects are available at [FehMaciel](https://github.com/FehMaciel?tab=repositories).
 
