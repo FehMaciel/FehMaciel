@@ -15,7 +15,7 @@
 
 - All of my projects are available at [FehMaciel](https://github.com/FehMaciel?tab=repositories).
 
-- Ask me about **Web development, PHP, Bootstrap, Javascript, JQUERY Html5 & Css3**.
+- Ask me about **Web development, PHP, Bootstrap, Javascript, Jquery, Html5 & Css3**.
 
 - How to reach me **felippemaciel13@gmail.com**.
   <br>
