@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=6e00ff&size=20&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Felippe+dos+Santos+Maciel;I'm+19+Years+Old;I'm+From+Santo+André,+SP+-+Brazil;I+Work+in+Web+Development;Cm+Technologist+in+systems+analysis+and+development;Welcome+And+Enjoy!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=6e00ff&size=20&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Felippe+dos+Santos+Maciel;I'm+19+Years+Old;I'm+From+Santo+André,+SP+-+Brazil;I+Work+in+Web+Development;I+am+an+Analyst+and+Systems+Developer;Welcome+And+Enjoy!+:%29)](https://git.io/typing-svg)
 <div>
     <h2 align="center">About Me</h2>
   <a href="https://app.daily.dev/FehMaciel"><img align="right" src="https://api.daily.dev/devcards/39dc7a0cc5464a23956dc497b2dca7bc.png?r=fel" width="300" alt="Felippe Maciel's Dev Card"/></a>
