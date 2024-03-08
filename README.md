@@ -11,11 +11,11 @@
 
 - I like to learn new things and ideas, technologies and meet new people!
 
-- I’m currently learning **PHP, MySql, C, Javascript, Typescript, JQuery & Python**.
+- I’m currently learning **PHP, MySql, C, Javascript, Typescript, React, React Native, Node Js, Next JS, JQuery & Python. **.
 
 - All of my projects are available at [FehMaciel](https://github.com/FehMaciel?tab=repositories).
 
-- Ask me about **Web development, PHP, Bootstrap, Javascript, Jquery, Html5 & Css3**.
+- Ask me about **Web development, PHP, MySql, C, Javascript, Typescript, React, React Native, Node Js, Next JS, JQuery & Python.*.
 
 - How to reach me **felippemacieldeveloper@gmail.com**.
   <br>
